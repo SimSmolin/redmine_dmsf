@@ -30,7 +30,7 @@ Redmine::Plugin.register :redmine_dmsf do
     url 'https://www.redmine.org/plugins/dmsf'
     author_url 'https://github.com/danmunn/redmine_dmsf/graphs/contributors'
   end
-  author 'Vít Jonáš / Daniel Munn / Karel Pičman with S.Melnikovs patch '
+  author 'Vít Jonáš / Daniel Munn / Karel Pičman with S.Melnikovs patch'
   description 'Document Management System Features '
   version '1.6.2.1'
 
